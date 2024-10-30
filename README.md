@@ -5,3 +5,17 @@ Conducted a POC and  completed the implementation and production rollout within 
 Contributed to the PDR data migration process and thoroughly analyzed mismatches during data reconciliation to ensure data integrity
 Successfully upgraded Java and Photon versions across various services, enhancing system performance and compatibility
 successfully performed performance testing and production deployment for various services by understanding the process with in a short span of time.
+---------------------------------
+
+
+
+
+**Java and Photon Upgrades for Enhanced Performance:**
+
+Completed Java and Photon upgrades across multiple services, ensuring compatibility and improved performance. Managed deployments swiftly and efficiently, minimizing downtime and maintaining service reliability.
+
+Optimization of Resource Consumption for Daily Job:
+
+Converted a daily job into a Gaia task, which reads records from the Consnet DB that are still in PI and PU states and retries any requests that weren’t processed due to downstream downtime. Previously, this job consumed resources continuously, even when it wasn’t needed. With the Gaia task implementation, resource consumption is now minimized by running only as required, optimizing efficiency and reducing unnecessary load.
+
+----------------------------------
