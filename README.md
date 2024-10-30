@@ -7,6 +7,8 @@ Conducted a POC and  completed the implementation and production rollout within 
 Contributed to the PDR data migration process and thoroughly analyzed mismatches during data reconciliation to ensure data integrity
 Successfully upgraded Java and Photon versions across various services, enhancing system performance and compatibility
 successfully performed performance testing and production deployment for various services by understanding the process with in a short span of time.**
+
+Implemented conditional bean creation, ensuring that beans are instantiated only when a specific job is called. This approach reduced the likelihood of errors from unnecessary bean creation in our shared repository, enhancing overall stability and reliability.
 ---------------------------------
 
 
