@@ -32,3 +32,12 @@ Here's a refined version for your self-appraisal:
 Quickly adapted to and collaborated effectively with the team, fostering a supportive and productive environment. Assisted another team during the PDR data migration by helping analyze mismatches, and provided guidance on debugging and implementing similar Gaia tasks, leveraging my experience to support their progress.
 
 Actively participated in production deployments, collaborating with team members to resolve issues promptly. These actions reflect my commitment to teamwork and knowledge-sharing, contributing to the overall success of both my team and cross-functional initiatives.
+
+
+Here's a refined version for your self-appraisal:
+
+---
+
+**Onboarding and Knowledge Transfer for New Team Members:**
+
+Assisted new team members with a smooth onboarding experience by providing detailed knowledge transfer (KT) sessions. Took responsibility for guiding them through all essential processes and best practices, ensuring they quickly acclimated and became productive team contributors.
