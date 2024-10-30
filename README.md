@@ -1,3 +1,5 @@
+
+Quickly learned and mastered the deployment process, enabling me to independently manage and drive changes across various services. Successfully conducted production deployments during my internship, demonstrating adaptability and the ability to work autonomously to support multiple services.
 Successfully implemented the Gaia task, which significantly optimized resource consumption by reducing unnecessary instance memory utilization and resolving connectivity issues caused by prolonged idleness which involved restaging of the app
 This also reduced the overhead of maintaining multiple repositories for different jobs.
 Automated the triggering of the Gaia application using Control-M, establishing a daily schedule and incorporating failure alerts. This streamlined the workflow and improved monitoring efficiency.
